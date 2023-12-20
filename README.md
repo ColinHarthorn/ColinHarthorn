@@ -1,6 +1,9 @@
 Here is my signature work portfolio. The three projects linked below are assignments from CS courses.
+
 https://github.com/ColinHarthorn/TenziLikeGame
+
 https://github.com/ColinHarthorn/Futoshiki
+
 https://github.com/ColinHarthorn/CISC380HW
 
 The first link is to an assignment meant to illustrate the difference between floating point values and doubles.
